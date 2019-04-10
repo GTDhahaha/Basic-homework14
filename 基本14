@@ -17,8 +17,6 @@ int main()
 		{
 			int a;
 			a = x + y;
-			printf("a = %d\n",a);
-			printf("z = %d\n",z);
 			if (x == z)
 				printf("These three sides can form an equilateral triangle.\n");
 			else if (a>z)
